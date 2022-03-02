@@ -10,3 +10,4 @@ Copy snippets to: `~/Library/Developer/Xcode/UserData/CodeSnippets/`
 | button-with-primary-action | Code for a `UIButton` with an action as a closure |
 | tern | `value ? "Yes" : "No"` |
 | r | `return value` |
+| p | `print("hello")` |
