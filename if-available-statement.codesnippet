@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>if-available</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>if #available(iOS &lt;#15#&gt;, *) {
+    &lt;# Use newer APIs #&gt;
+} else {
+    &lt;# Alternative code for earlier versions of iOS #&gt;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3110713F-5A16-429C-B409-0D5360BE134F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>if statement that allows newer or earlier code to be used</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>If-Available-Statement</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
