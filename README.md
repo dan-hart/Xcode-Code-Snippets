@@ -1,5 +1,9 @@
 # Xcode-Code-Snippets
-Copy snippets to: `~/Library/Developer/Xcode/UserData/CodeSnippets/`
+
+## Installation
+1. Clone this repository
+2. Run `install.sh` (`Terminal` > `cd Xcode-Code-Snippets` > `sh install.sh`)
+3. ✅ Done, all snippets are in `~/Library/Developer/Xcode/UserData/CodeSnippets/`
 
 ## Reference
 | Shortcut | Description / Sample |
