@@ -6,3 +6,4 @@ Copy snippets to: `~/Library/Developer/Xcode/UserData/CodeSnippets/`
 | --- | --- |
 | mark | `// MARK: - Properties` |
 | if-available | `if #available(iOS 99, *)` |
+| at-available | `@available(iOS 99, *)` |
