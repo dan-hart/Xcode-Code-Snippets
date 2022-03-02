@@ -1,5 +1,5 @@
 # Xcode-Code-Snippets
-Located at `~/Library/Developer/Xcode/UserData/CodeSnippets/`
+Copy snippets to: `~/Library/Developer/Xcode/UserData/CodeSnippets/`
 
 ## Reference
 | Shortcut | Code Sample |
