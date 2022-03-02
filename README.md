@@ -11,3 +11,4 @@ Copy snippets to: `~/Library/Developer/Xcode/UserData/CodeSnippets/`
 | tern | `value ? "Yes" : "No"` |
 | r | `return value` |
 | p | `print("hello")` |
+| todo | `// TODO: Task` |
