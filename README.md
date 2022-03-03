@@ -16,3 +16,4 @@
 | r | `return value` |
 | p | `print("hello")` |
 | todo | `// TODO: Task` |
+| debug | `#if DEBUG` |
