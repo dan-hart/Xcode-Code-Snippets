@@ -1,6 +1,8 @@
 # Xcode-Code-Snippets
 
-## Installation
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/https://www.buymeacoffee.com/codedbydan)
+
+### Installation
 1. Clone this repository
 2. Run `install.sh` (`Terminal` > `cd Xcode-Code-Snippets` > `sh install.sh`)
 3. ✅ Done, all snippets are in `~/Library/Developer/Xcode/UserData/CodeSnippets/`
@@ -17,5 +19,3 @@
 | p | `print("hello")` |
 | todo | `// TODO: Task` |
 | debug | `#if DEBUG` |
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/https://www.buymeacoffee.com/codedbydan)
