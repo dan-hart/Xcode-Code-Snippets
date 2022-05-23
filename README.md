@@ -19,3 +19,4 @@
 | p | `print("hello")` |
 | todo | `// TODO: Task` |
 | debug | `#if DEBUG` |
+| mainThread | Run on main thread: `DispatchQueue.main.async { }` |
